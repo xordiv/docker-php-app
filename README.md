@@ -5,6 +5,9 @@ Image is specific and in development, but Dockerfile may be helpful for build v8
 
 Full build time is about 45 minutes because Debian has no actual version of v8 library (libv8) and building from source takes time.
 
+### Install
+    docker pull xordiv/docker-php-app
+
 ### Description:
 
 **Extensions:** v8js, blitz, libsodium, xdiff, xdebug, gd,
