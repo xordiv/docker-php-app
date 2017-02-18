@@ -1,5 +1,5 @@
 # docker-php-app
-Docker image builded from official PHP image with v8js, blitz, composer, nodejs, npm, libsodium, xdiff, xdebug and other extensions
+Docker image built from official PHP image with v8js, blitz, composer, nodejs, npm, libsodium, xdiff, xdebug and other extensions
 
 Image is specific and in development, but Dockerfile may be helpful for build v8, v8js, blitz and other.
 
