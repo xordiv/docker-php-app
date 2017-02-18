@@ -3,6 +3,8 @@ Docker image built from official PHP image with v8js, blitz, composer, nodejs, n
 
 Image is specific and in development, but Dockerfile may be helpful for build v8, v8js, blitz and other.
 
+Full build time is about 45 minutes because Debian has no actual version of v8 library (libv8) and building from source takes time.
+
 ### Description:
 
 **Extensions:** v8js, blitz, libsodium, xdiff, xdebug, gd,
